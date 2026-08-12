@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# v1.0.0 - HIGH TECH PS Host
+
+CACHE:
+index.html
+style.css
+cache.js
+sw.js
+manifest.json
+
+NETWORK:
+*
